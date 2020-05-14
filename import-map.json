@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "lodash-sortBy": "https://deno.land/x/lodash@master/sortBy.js"
+  }
+}
